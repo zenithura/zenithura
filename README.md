@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm curently learning IT topics like web development, data structures. I'm working on machine learning,criptography
+Highly motivated and technically skilled individual with a background in
+computer science from a joint program at Baku Engineering University
+and INHA University. Passionate about leveraging robust technical skills
+in Python, machine learning, and web development to contribute to
+cutting-edge projects. Demonstrates a strong capability in problemsolving and analytics, with a proven track record of improving
+application performance and engaging communities through innovative
+software solutions. Driven to support dynamic projects with adept
+programming and analytical expertise.
+
 
 
 ## 🌐 Socials:
